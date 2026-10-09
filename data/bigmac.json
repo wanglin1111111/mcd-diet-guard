@@ -1,0 +1,14 @@
+{
+  "profile": "general",
+  "foods": [
+    {
+      "name": "巨无霸",
+      "energy_kcal": 513.0,
+      "protein_g": 27.0,
+      "fat_g": 26.0,
+      "carbs_g": 42.0,
+      "sodium_mg": 961.0,
+      "calcium_mg": 171.0
+    }
+  ]
+}

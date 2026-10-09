@@ -1,0 +1,77 @@
+{
+  "profile": "hypertension",
+  "foods": [
+    {
+      "name": "圆筒冰淇淋",
+      "energy_kcal": 93.0,
+      "protein_g": 2.0,
+      "fat_g": 3.0,
+      "carbs_g": 14.0,
+      "sodium_mg": 36.0,
+      "calcium_mg": 77.0
+    },
+    {
+      "name": "麦乐鸡5块",
+      "energy_kcal": 213.0,
+      "protein_g": 12.0,
+      "fat_g": 12.0,
+      "carbs_g": 13.0,
+      "sodium_mg": 422.0,
+      "calcium_mg": 9.0
+    },
+    {
+      "name": "大杯玉米杯",
+      "energy_kcal": 87.0,
+      "protein_g": 4.0,
+      "fat_g": 1.0,
+      "carbs_g": 12.0,
+      "sodium_mg": 2.0,
+      "calcium_mg": 10.0
+    },
+    {
+      "name": "吉士汉堡包",
+      "energy_kcal": 294.0,
+      "protein_g": 16.0,
+      "fat_g": 12.0,
+      "carbs_g": 30.0,
+      "sodium_mg": 673.0,
+      "calcium_mg": 144.0
+    },
+    {
+      "name": "双层吉士汉堡",
+      "energy_kcal": 429.0,
+      "protein_g": 27.0,
+      "fat_g": 22.0,
+      "carbs_g": 31.0,
+      "sodium_mg": 1017.0,
+      "calcium_mg": 232.0
+    },
+    {
+      "name": "麦香鸡",
+      "energy_kcal": 369.0,
+      "protein_g": 15.0,
+      "fat_g": 17.0,
+      "carbs_g": 39.0,
+      "sodium_mg": 731.0,
+      "calcium_mg": 73.0
+    },
+    {
+      "name": "麦辣鸡腿汉堡",
+      "energy_kcal": 485.0,
+      "protein_g": 24.0,
+      "fat_g": 24.0,
+      "carbs_g": 42.0,
+      "sodium_mg": 1208.0,
+      "calcium_mg": 154.0
+    },
+    {
+      "name": "巨无霸",
+      "energy_kcal": 513.0,
+      "protein_g": 27.0,
+      "fat_g": 26.0,
+      "carbs_g": 42.0,
+      "sodium_mg": 961.0,
+      "calcium_mg": 171.0
+    }
+  ]
+}

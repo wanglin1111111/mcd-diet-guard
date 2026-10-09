@@ -1,0 +1,24 @@
+# 环境变量 / 本地配置
+.env
+.env.local
+*.local.json
+
+# MCP 实际配置（含真实 Token，禁止提交）
+mcp-config.json
+~/.workbuddy/mcp.json
+
+# WorkBuddy 本地数据
+.workbuddy/
+
+# 临时文件
+_tmp/
+_slides_tmp/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
